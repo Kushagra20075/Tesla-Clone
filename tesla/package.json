@@ -5,6 +5,7 @@
   "engines": {
     "npm": "6.x",
     "node": "14.x"
+    "yarn": "1.22.15"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
