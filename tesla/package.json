@@ -4,8 +4,8 @@
   "private": true,
   "engines": {
     "npm": "6.x",
-    "node": "14.x",
-    "yarn": "1.22.15"
+    "node": "16.x",
+    "yarn": "1.x"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
